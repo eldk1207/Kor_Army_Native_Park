@@ -1,4 +1,6 @@
 Helle 
+HEAD
 add world
 git 연습을 시작한지 2일차 잘되는건지 글자 추가하고 commit까지 목표
 text add value check 
+
